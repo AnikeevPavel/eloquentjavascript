@@ -15,4 +15,4 @@ for (let i = 0; i<n;i++){
 return res;
 }
 
-console.log(chess(100))
+console.log(chess(8))
